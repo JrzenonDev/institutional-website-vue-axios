@@ -1,14 +1,18 @@
 <template>
   <div id="app">
+    <Header />
   </div>
 </template>
 
 <script>
-import './css/globals.css';
+import Header from './components/Header.vue';
+
+import './assets/css/globals.css';
 
 export default {
   name: 'App',
   components: {
+    Header,
   }
 }
 </script>
