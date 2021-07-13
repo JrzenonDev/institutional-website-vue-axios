@@ -85,6 +85,10 @@ export default {
     width: 40px;
   }
 
+  #menu-button:hover {
+    cursor: pointer;
+  }
+
   .container {
     width: 90%;
   }
@@ -97,6 +101,10 @@ export default {
     height: 100vh;
     background-color: var(--color-black);
     opacity: 0.8;
+  }
+
+  #menu-overlay:hover {
+    cursor: pointer;
   }
 
   #menu-logo {
