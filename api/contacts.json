@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Canal do YouTube",
+    "label":"youtube.com/",
+    "link":"https://youtube.com/"
+  },
+  {
+    "title":"Instagram",
+    "label":"instagram.com/",
+    "link":"https://instagram.com/"
+  },
+  {
+    "title":"Facebook",
+    "label":"facebook.com/",
+    "link":"https://facebook.com/"
+  },
+  {
+    "title":"Twitter",
+    "label":"twitter.com/",
+    "link":"https://twitter.com/"
+  },
+  {
+    "title":"E-mail",
+    "label":"jrobertoonb@gmail.com",
+    "link":"mailto:jrobertoonb@gmail.com"
+  }
+]
