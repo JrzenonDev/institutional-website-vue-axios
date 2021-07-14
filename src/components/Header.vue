@@ -28,10 +28,10 @@
       >
         <img id="menu-logo" src="../assets/images/logo.png" alt="Logo">
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="sobre">Sobre</a></li>
-          <li><a href="videos">Vídeos</a></li>
-          <li><a href="contato">Contato</a></li>
+          <li @click="closeMenu"><router-link to="/">Home</router-link></li>
+          <li @click="closeMenu"><router-link to="sobre">Sobre</router-link></li>
+          <li @click="closeMenu"><router-link to="videos">Vídeos</router-link></li>
+          <li @click="closeMenu"><router-link to="contato">Contato</router-link></li>
         </ul>
       </div>
 
